@@ -1,3 +1,5 @@
+# NOMOR 2 : SEGITIGA EXCEL
+
 import xlsxwriter
 
 def segitigaExcel(x):
